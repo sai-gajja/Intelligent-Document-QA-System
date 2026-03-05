@@ -515,9 +515,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 **Contact**
 
 For questions or support:
-- **Email**: your.email@example.com
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/intelligent-document-qa/issues)
-- **Documentation**: [Read the docs](https://github.com/yourusername/intelligent-document-qa/wiki)
+- **Email**: saigajja2004@gmail.com
+
 
 ---
 
