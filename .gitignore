@@ -1,0 +1,11 @@
+dqaenv/
+__pycache__/
+*.pyc
+.env
+*.pkl
+*.db
+
+qaenv/
+__pycache__/
+*.pyc
+.env

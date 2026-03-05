@@ -1,0 +1,11 @@
+
+    Artificial Intelligence (AI) refers to the simulation of human intelligence in machines 
+    that are programmed to think like humans and mimic their actions. The term may also be 
+    applied to any machine that exhibits traits associated with a human mind such as 
+    learning and problem-solving.
+    
+    Machine learning is a subset of AI that focuses on the development of computer programs 
+    that can access data and use it to learn for themselves. The process of learning begins 
+    with observations or data, such as examples, direct experience, or instruction, in order 
+    to look for patterns in data and make better decisions in the future.
+    

@@ -1,0 +1,36 @@
+# API server
+fastapi
+uvicorn
+
+# Frontend
+streamlit
+
+# HTTP requests (frontend -> backend)
+requests
+
+# Vector database
+chromadb
+
+# Embeddings
+sentence-transformers
+torch
+
+# LLM API
+groq
+
+# Document processing
+pypdf
+python-docx
+beautifulsoup4
+html2text
+markdown
+
+# Data models
+pydantic
+
+# Utilities
+numpy
+scikit-learn
+
+# Optional (better PDF parsing)
+pdfplumber
