@@ -1,11 +1,59 @@
-dqaenv/
-__pycache__/
-*.pyc
-.env
-*.pkl
-*.db
+# Python cache
 
-qaenv/
-__pycache__/
+**pycache**/
 *.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+
+venv/
+env/
+qaenv/
+dqaenv/
+
+# Environment variables
+
 .env
+.env.*
+
+# Python build files
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# IDE files
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Model files (optional if large)
+
+*.pt
+*.pth
+*.ckpt
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Data files (optional if large)
+
+data/*.pdf
+data/*.docx
+data/*.txt
